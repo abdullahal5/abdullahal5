@@ -11,7 +11,8 @@
 
 - 👯 I’m looking to collaborate on **github**
 
-<div><h3 align="left">Connect with me:</h3>
+<div>
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/abdullahal.fahim.9421?mibextid=vqkefztyiaky4pb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullahal.fahim.9421?mibextid=vqkefztyiaky4pb6" height="30" width="40" /></a>
 </p></div>
