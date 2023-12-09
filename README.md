@@ -1,25 +1,26 @@
-### Hi there 👋, I'm Fahim
-#### MERN stack Developer
-![MERN stack Developer](https://i.ibb.co/Jn9Rkk8/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)
+<h1 align="center">Hi 👋, I'm Fahim</h1>
+<h3 align="center">MERN stack Developer</h3>
 
-"Hi, I'm Fahim, a web developer passionate about crafting immersive digital experiences. With a keen eye for design and a love for clean, efficient code, I specialize in building dynamic and responsive websites that captivate and engage users. Also I love to write code . I'm focused on learning new technologies . 
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Skills: HTML / CSS / JavaScript / React / Express / NodeJs / MongoDB / Firebase / Vite / NextJS 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahal5&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahal5" /> </p>
 
-- 🔭 I’m currently working on Chat app Project 
-- 🌱 I’m currently learning more details about nextJs and JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: on  Email, Facebook 
-- 😄 Pronouns: he/him 
+- 🔭 I’m currently working on **Chat app Project**
 
+- 🌱 I’m currently learning **more details about nextJs and JavaScript**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullahal5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abdullahal.fahim.9421?mibextid=VqkefZtyiaKY4pB6)  
+- 👯 I’m looking to collaborate on **github**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahal5)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/abdullahal.fahim.9421?mibextid=vqkefztyiaky4pb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullahal.fahim.9421?mibextid=vqkefztyiaky4pb6" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahal5&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/abdullahal5)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahal5&show_icons=true&locale=en&layout=compact" alt="abdullahal5" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahal5)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahal5&show_icons=true&locale=en" alt="abdullahal5" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahal5&" alt="abdullahal5" /></p>
