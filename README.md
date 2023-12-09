@@ -1,4 +1,4 @@
-![MERN stack Developer](https://i.ibb.co/Jn9Rkk8/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)
+![MERN stack Developer]([https://i.ibb.co/Jn9Rkk8/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png](https://i.ibb.co/sVsbf11/resize-1702114381458262595-Navy-Blue-Geometric-Technology-Linked-In-Banner1.png))
 
 ### Hi there 👋, I'm Fahim
 #### MERN stack Developer
