@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Fahim
 #### MERN stack Developer
-![MERN stack Developer](https://i.ibb.co/sVsbf11/resize-1702114381458262595-Navy-Blue-Geometric-Technology-Linked-In-Banner1.png)
+![MERN stack Developer](https://i.ibb.co/Jn9Rkk8/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)
 
-"Hi, I'm Fahim, a web developer passionate about crafting immersive digital experiences. With a keen eye for design and a love for clean, efficient code, I specialize in building dynamic and responsive websites that captivate and engage users. Also I love to write code . I'm focused on learning new technologies . Let's connect and innovate together!
+"Hi, I'm Fahim, a web developer passionate about crafting immersive digital experiences. With a keen eye for design and a love for clean, efficient code, I specialize in building dynamic and responsive websites that captivate and engage users. Also I love to write code . I'm focused on learning new technologies . 
 
 Skills: HTML / CSS / JavaScript / React / Express / NodeJs / MongoDB / Firebase / Vite / NextJS 
 
