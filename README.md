@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
 <h3 align="center">MERN stack Developer</h3>
 
+![logo](https://github.com/abdullahal5/abdullahal5/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahal5&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahal5" /> </p>
