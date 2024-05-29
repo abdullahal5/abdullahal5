@@ -6,7 +6,7 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 
-<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="370" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdullahal5&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahal5" style="display: block;" />
