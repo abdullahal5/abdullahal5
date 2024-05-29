@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<h2 align="left"> Languages and Tools:</h2>
+<h2 style="padding-top: 20px;" align="left"> Languages and Tools:</h2>
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
