@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 
-<img  src="https://i.ibb.co/PjD9JLD/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="logo" style="width:100%; padding-bottom: 20px;"/>
+<img  src="https://i.ibb.co/PjD9JLD/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="logo" style="width:100%; "/>
 
 <h2 align="left">👩‍💻 About Me</h2>
 
