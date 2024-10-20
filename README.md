@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=abdullahalfahin183@gmail.com&su=Subject&body=Body&tf=cm">
-  <a href="https://discord.gg/fahim4026" target="_blank">
+  <a href="https://discord.com/users/fahim4026" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
