@@ -45,7 +45,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center" style="width: 60%; margin: auto;">
+<div style="width: 60%; margin: auto;">
   <img src="https://i.ibb.co.com/3YKdfJf/HTML5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/d2cY3XR/CSS3.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
@@ -62,7 +62,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
-</p>
+</div>
 
 <h2 align="center">🚀 Current Overview</h2>
 
