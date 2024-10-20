@@ -30,8 +30,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=abdullahalfahin183@gmail.com&su=Subject&body=Body&tf=cm">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://discord.gg/fahim4026" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
@@ -45,7 +43,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<div style="width: 60%; margin: auto; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<p style="width: 60%; margin: auto; text-align: center;">
   <img src="https://i.ibb.co.com/3YKdfJf/HTML5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/d2cY3XR/CSS3.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
@@ -62,23 +60,23 @@
   <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
-</div>
+</p>
 
 <h2 align="center">🚀 Current Overview</h2>
 
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;"> <!-- Add margin here for gap -->
-    <h3>🔭 I’m working - In Personal Projects.</h3>
-    <h3>🌱 I’m exploring - Advanced technologies for web.</h3>
-    <h3>👯 I’m looking - To collaborate on open source projects.</h3>
-    <h3>🤔 I’m trying - To help people learn web development.</h3>
-    <h3>⚡ Fun fact - Ambivert. Love to play video games and biriyani.</h3>
-  </div>
-  <div>
-    <img style="border-radius: 8px; alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  </div>
+<div align="left">
+<img align="right" style="border-radius: 8px; alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
+### 🔭 I'm working on **Personal Projects**
+
+### 🌱 I'm exploring **Advanced Web Technologies**
+
+### 👯 I'm looking to collaborate on **Open Source Projects**
+
+### 🤔 I'm trying to **Help People Learn Web Development**
+
+### ⚡ Fun fact: **Ambivert | Gamer | Biryani Lover**
 
 <br>
 
@@ -91,7 +89,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahal5&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's Top Languages" />
 </p>
-
 
 <div align="center">
   
