@@ -14,13 +14,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+digital+dreams%2C+one+line+at+a+time;Turning+coffee+into+code+since+2021;MERN+stack+magician+in+the+making" alt="Typing SVG" />
 </p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahal5&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Fahim's GitHub streak"/>
 </p>
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="left">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-al-fahim-7a5593286" target="_blank">
@@ -41,9 +41,9 @@
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
-<p style="width: 60%; margin: auto; text-align: center;">
+<p align="center">
   <img src="https://i.ibb.co.com/3YKdfJf/HTML5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/d2cY3XR/CSS3.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
@@ -62,7 +62,7 @@
   <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
 </p>
 
-<h2 align="center">🚀 Current Overview</h2>
+<h2 align="left">🚀 Current Overview</h2>
 
 <div align="left">
 <img align="right" style="border-radius: 8px; alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -80,7 +80,7 @@
 
 <br>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="left">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahal5&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's GitHub stats" />
@@ -96,7 +96,7 @@
   
 </div>
 
-<h2 align="center">🎯 Goals for 2025</h2>
+<h2 align="left">🎯 Goals for 2025</h2>
 
 <p align="center">
   🚀 Master Advanced Technologies<br>
