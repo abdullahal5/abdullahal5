@@ -45,7 +45,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center" style="max-width: 60%; margin: auto;">
+<p align="center" style="width: 60%; margin: auto;">
   <img src="https://i.ibb.co.com/3YKdfJf/HTML5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/d2cY3XR/CSS3.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
@@ -66,19 +66,19 @@
 
 <h2 align="center">🚀 Current Overview</h2>
 
-<div align="center">
-  <img align="right" style="border-radius: 8px;  alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-  - 🔭 I'm working on **Personal Projects**
-  
-  - 🌱 I'm exploring **Advanced Web Technologies**
-  
-  - 👯 I'm looking to collaborate on **Open Source Projects**
-  
-  - 🤔 I'm trying to **Help People Learn Web Development**
-  
-  - ⚡ Fun fact: **Ambivert | Gamer | Biryani Lover**
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;"> <!-- Add margin here for gap -->
+    <h3>🔭 I’m working - In Personal Projects.</h3>
+    <h3>🌱 I’m exploring - Advanced technologies for web.</h3>
+    <h3>👯 I’m looking - To collaborate on open source projects.</h3>
+    <h3>🤔 I’m trying - To help people learn web development.</h3>
+    <h3>⚡ Fun fact - Ambivert. Love to play video games and biriyani.</h3>
+  </div>
+  <div>
+    <img style="border-radius: 8px; alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  </div>
 </div>
+
 
 <br>
 
