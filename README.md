@@ -45,7 +45,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<div style="width: 60%; margin: auto;">
+<div style="width: 60%; margin: auto; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://i.ibb.co.com/3YKdfJf/HTML5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/d2cY3XR/CSS3.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
