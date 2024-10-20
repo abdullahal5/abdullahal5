@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+digital+dreams%2C+one+line+at+a+time;Turning+coffee+into+code+since+2021;MERN+stack+magician+in+the+making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+digital+dreams%2C+one+line+at+a+time;Turning+coffee+into+code+since+2023;MERN+stack+magician+in+the+making" alt="Typing SVG" />
 </p>
 
 <h2 align="left">📊 GitHub Analytics</h2>
