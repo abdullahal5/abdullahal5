@@ -53,8 +53,15 @@
 </p>
 <p  align="center">
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+
   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+
+  <img width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+
+<img width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
   <img src="https://i.ibb.co.com/TYGqFdw/Node-js.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/HrkW2G7/MongoDB.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
@@ -62,6 +69,7 @@
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />     
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
 </p>
